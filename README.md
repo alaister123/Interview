@@ -27,16 +27,16 @@ def to_csv(data: dict, title: str) -> None:
 ## 我的思路
 
 
-# 可能不止一个company比如
-# Variopartner SICAV            <----------------- First
-# 529900LPCSV88817QH61
-# 1. TARENO GLOBAL WATER SOLUTIONS FUND
-# LU2001709034
-# ANOTHER COMPANY               <----------------- First
-# 529900LPC349823094809834
-# 1. TARENO GLOBAL WATER SOLUTIONS FUND
-# LU1299721909
-# LU1299722113
+### 可能不止一个company比如
+### Variopartner SICAV            <----------------- First
+### 529900LPCSV88817QH61
+### 1. TARENO GLOBAL WATER SOLUTIONS FUND
+### LU2001709034
+### ANOTHER COMPANY               <----------------- First
+### 529900LPC349823094809834
+### 1. TARENO GLOBAL WATER SOLUTIONS FUND
+### LU1299721909
+### LU1299722113
 
 所以先把整个str 分成 单个company
 然后单个parse
