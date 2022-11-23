@@ -32,7 +32,7 @@ def to_csv(data: dict, title: str) -> None:
 ### 529900LPCSV88817QH61
 ### 1. TARENO GLOBAL WATER SOLUTIONS FUND
 ### LU2001709034
-### ANOTHER COMPANY               <----------------- First
+### ANOTHER COMPANY               <----------------- Second
 ### 529900LPC349823094809834
 ### 1. TARENO GLOBAL WATER SOLUTIONS FUND
 ### LU1299721909
