@@ -89,5 +89,5 @@ if __name__ == '__main__':
         
     #print result
     for js in final:
-        print(final)
+        print(js)
         print('\n')
